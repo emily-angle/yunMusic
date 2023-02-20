@@ -1,0 +1,21 @@
+.vscode/
+
+
+/node_modules
+/.idea
+/dist/
+### Temp File ###
+# 一些常用的日志文件后缀
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+### System Ignore ###
+# 一些系统方面的隐藏文件
+.DS_Store
+/public/.DS_Store
+Thumbs.db
+yarn.lock
+package-lock.json
